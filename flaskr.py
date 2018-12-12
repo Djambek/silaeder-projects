@@ -5,6 +5,7 @@ from flask import Flask, request, session, g, redirect, url_for, \
 # configuration
 #test f
 #test i
+# test e
 DATABASE = 'projects.db'
 #DEBUG = True
 #SECRET_KEY = 
