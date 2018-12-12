@@ -3,6 +3,7 @@ from flask import Flask, request, session, g, redirect, url_for, \
      abort, render_template, flash
 # test comment
 # configuration
+#test f
 DATABASE = 'projects.db'
 #DEBUG = True
 #SECRET_KEY = 
