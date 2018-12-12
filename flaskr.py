@@ -8,7 +8,7 @@ DATABASE = 'projects.db'
 #DEBUG = True
 #SECRET_KEY = 
 #USERNAME = 
-#PASSWORD = 
+#PASSWORD = kuku
 
 app = Flask(__name__)
 app.config.from_object(__name__)
